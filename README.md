@@ -10,3 +10,5 @@ Projeto feito no Curso de Node + Typescript da B7Web.
 
 ### Para rodar o projeto
 `npm run start-dev`
+
+  Author: Moizes Eder Dias
